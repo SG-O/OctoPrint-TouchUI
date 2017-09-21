@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BillyBlaze/OctoPrint-TouchUI.git"
+    "url": "git://github.com/SG-O/OctoPrint-TouchUI.git"
   },
   "dependencies": {},
   "devDependencies": {
