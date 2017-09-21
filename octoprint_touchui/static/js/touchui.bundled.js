@@ -604,13 +604,13 @@ TouchUI.prototype.components.touchscreen = {
 			}
 
 			// Disable GCodeViewer in touchscreen mode
-			if (viewModels.gcodeViewModel) {
+			/*if (viewModels.gcodeViewModel) {
 				console.info("TouchUI: Disabling GCodeViewer in touchscreen mode...");
 				viewModels.gcodeViewModel.enabled = false;
 				viewModels.gcodeViewModel.initialize = _.noop;
 				viewModels.gcodeViewModel._processData = _.noop;
 				$("#gcode_link2").hide();
-			}
+			}*/
 		}
 
 	}
