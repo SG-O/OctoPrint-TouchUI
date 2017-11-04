@@ -10,3 +10,4 @@ dist
 node_modules
 octoprint_touchui/WHATSNEW.md
 source/vendors/
+octoprint_touchui/static/img/Thumbs.db
