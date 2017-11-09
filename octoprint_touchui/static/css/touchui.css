@@ -2188,21 +2188,11 @@ CSS: MITLicense)*/@font-face{
 }#touchbody#control#control-jog-generaldivbutton: before{
 	font-family: touchui;content: "\e900"
 }#touchbody#control#control-jog-generaldivbutton: first-child: before{
-	font-family: FontAwesome;background: transparent;content: "\f085"
+	font-family: FontAwesome;background: transparent;content: "\f011"
 }#touchbody#control#control-jog-generaldivbutton: last-child: after{
 	content: "\f057";color: #00B0FF!important;font-size: 8vw;position: absolute;top: -2vw;right: 1vw;text-indent: 2000px
 }@media(min-width: 700px){
 	#touchbody#control#control-jog-generaldivbutton: last-child: after{
-		font-size: 58px;top: -16px;right: 13px
-	}
-}#touchbody#control#control-jog-genparkdivbutton{
-	position: relative
-}#touchbody#control#control-jog-genparkdivbutton: first-child: before{
-	font-family: FontAwesome;background: transparent;content: "\f011"
-}#touchbody#control#control-jog-genparkdivbutton: last-child: after{
-	content: "\f057";color: #00B0FF!important;font-size: 8vw;position: absolute;top: -2vw;right: 1vw;text-indent: 2000px
-}@media(min-width: 700px){
-	#touchbody#control#control-jog-genparkdivbutton: last-child: after{
 		font-size: 58px;top: -16px;right: 13px
 	}
 }#touchbody#control.distance.btn-group{
